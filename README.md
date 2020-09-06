@@ -11,3 +11,6 @@ Instructions to set in your local computer.......
 4. Now, create a Database named eduthon
 5. Now create a table named register with attributes name,fathersname,gender,mobileno,email,address,city,state,pincode,username,password,adharcard,board,class in database eduthon.
 6. Now type localhost in your browser and it will be shown all the files stored in www folder. Now click on the file and enjoy the project.
+
+
+Link to the ppt: https://drive.google.com/file/d/1miaCaRAheFFeX6PXnur0N3x2LN-yghYT/view?usp=sharing
